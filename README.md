@@ -1,10 +1,9 @@
 ### Hello World
-Hi, I'm [Windard](https://windard.com) 👋
+Hi, I'm [DongHee] 👋
 
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-shanghai-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=windard.github.profile)
 
 <br />
 
